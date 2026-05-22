@@ -14,3 +14,18 @@ print(list)
 
 list.insert(2,"cereza")
 print(list)
+
+
+# Actividad 4
+list.remove("fresa")
+print(list)         
+
+list.pop()
+print(list)
+
+list.pop(4)
+print(list)
+
+# remove - elimina el elemento que se le indique, en este caso "fresa"
+# pop - elimina el ultimo elemento de la lista, en este caso "melon"    
+# pop(4) - elimina el elemento que se encuentra en la posicion 4, en este caso "limon"
