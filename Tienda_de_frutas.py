@@ -39,4 +39,9 @@ list[1] = 'sandia'
 print(list) #Lista despues del cambio
 
 
+# Actividad 6
 
+list.extend(['uva','coco', 'piña'])
+print(list)
+
+print(len(list))
